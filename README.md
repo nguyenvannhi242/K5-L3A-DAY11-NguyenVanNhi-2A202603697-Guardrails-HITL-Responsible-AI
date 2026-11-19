@@ -1,6 +1,6 @@
 # Day 11 — Controlled Agent Security (2026)
 
-> **Họ và tên:** Nguyễn Văn Nhị · **MSSV:** `2A202603697` · **Lớp:** `K5-L3A`
+> **Họ và tên:** Nguyễn Văn Nhi · **MSSV:** `2A202603697` · **Lớp:** `K5-L3A`
 
 > 👤 **Hình thức:** bài tập **cá nhân** (1 người / 1 MSSV).  
 > 🎯 **Mục tiêu:** đóng vai **Blue Team** để học cách xây Guardrails phòng thủ, rồi đóng vai **Red Team** để tấn công agent **Red** hoặc **Red Advance**.  
